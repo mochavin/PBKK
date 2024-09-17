@@ -6,8 +6,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/5947f6b8-ef1c-4f10-961e-80caee778f9c" alt="Blog Page" width="600"/>
-  <p><strong>Blog Page</strong>: Ini merupakan page yang akan menjadi blog.</p>
+  <img src="https://github.com/user-attachments/assets/f79fafb7-394f-437f-9f1b-e98408cf15e2" alt="Blog Page" width="600"/>
+  <p><strong>Blog Page</strong>: Ini merupakan page blog.</p>
 </div>
 
 <div align="center">
