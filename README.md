@@ -6,23 +6,13 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/4fda55ad-c38f-4c3d-a800-9a8481c410ea" alt="Blog Page" width="600"/>
-  <p><strong>Blog Page</strong>: Ini merupakan page blog.</p>
+  <img src="https://github.com/user-attachments/assets/04ccfbd9-aac0-4f14-abdf-e57569ed6318" alt="Blog Page" width="600"/>
+  <p><strong>Blog Page</strong>: Page blog yang sekaligus bisa menampilkan search by category dan by author.</p>
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0fef64fe-600e-4a4c-8ec0-1fbfa134307b" alt="Blog Detail Page" width="600"/>
+  <img src="https://github.com/user-attachments/assets/18244d4f-2da4-4969-9c9d-abe18b4eefbb" alt="Blog Detail Page" width="600"/>
   <p><strong>Blog Detail Page</strong>: Ini merupakan page untuk detail blog.</p>
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/48af3995-6403-4bb3-9c82-7205526f84ab" alt="Blog by Author Page" width="600"/>
-  <p><strong>Blog by Author Page</strong>: Ini merupakan page yang menampilkan blog berdasarkan penulis.</p>
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/f8726038-4dda-484b-8da2-3f28104cebd4" alt="Blog by Category Page" width="600"/>
-  <p><strong>Blog by Category Page</strong>: Ini merupakan page yang menampilkan blog berdasarkan kategori.</p>
 </div>
 
 <div align="center">
